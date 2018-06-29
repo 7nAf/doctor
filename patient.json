@@ -1,0 +1,25 @@
+[ {
+  "Doctor" : "1",
+  "Pulse(avg)" : "73",
+  "Blood Pressure(avg)" : "140",
+  "Sunlight Index" : "35",
+  "Date" : "01-02-2018",
+}
+,
+{
+  "Doctor" : "06",
+  "Pulse(avg)" : "71",
+  "Blood Pressure(avg)" : "142",
+  "Sunlight Index" : "63.3",
+  "Date" : "11-03-2018",
+}
+,
+{
+  "Hour" : "12",
+  "Pulse(avg)" : "77",
+  "Blood Pressure(avg)" : "137",
+  "Sunlight Index" : "109",
+  "sweat index" : "34",
+}
+
+ ]
